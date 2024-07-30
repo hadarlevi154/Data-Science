@@ -1,4 +1,4 @@
-HW in the course "Introduction to Data Science" As part of my B.Sc. in Computer Science in Tel Aviv University.
+HW in the course "Introduction to Data Science" As part of my B.Sc. in Computer Science at Tel Aviv University.
 
 This course provided a practical introduction to machine-learning and big data:
 • Data Understanding and Data Preparation
